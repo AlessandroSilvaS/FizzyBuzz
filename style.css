@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2{
+    text-align: center;
+    margin: 30px;
+}
+h1{
+    font-size: 60px;
+}
+.container-input {
+    width: 50%;
+    margin: 0 auto;
+}
+.container-input #input-array{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
