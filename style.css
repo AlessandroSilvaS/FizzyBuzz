@@ -35,3 +35,15 @@ h1{
 .container-input .click-me:hover{
     background-color: #4169e1;
 }
+.text-container{
+    width: 50%;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.text-container .text-out{
+    width: 100%;
+    height: 100%;
+    font-size: 42px;
+    display: none;
+}
